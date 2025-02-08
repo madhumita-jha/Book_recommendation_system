@@ -16,4 +16,4 @@ The Book Recommendation System uses sentiment analysis to recommend books based 
 - **Database**: Pandas (for handling the book dataset)
   
 ## Project Video
-Check out this video to see a demo of my project: [Project Demo](https://youtu.be/vc2IdC9Okm0)
+Check out this video to see a demo of my project: (https://youtu.be/vc2IdC9Okm0)
